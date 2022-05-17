@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Workspace Example Config">967ac937f45f01104a466e88858c2e9b</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Expample page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>expample-page</route_type>
+        <screen_type display_value="Expample page">00eb8177875f0110844e873d0ebb3564</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-13 06:15:51</sys_created_on>
+        <sys_id>88ebcd77875f0110844e873d0ebb35cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expample page</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_88ebcd77875f0110844e873d0ebb35cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-13 06:15:51</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=88ebcd77875f0110844e873d0ebb35cc"/>
+</record_update>
